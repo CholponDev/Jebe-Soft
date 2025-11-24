@@ -89,11 +89,10 @@
     width: 700px;
     height: 400px;
     border-radius: 50px;
-    border: 1px solid;
     background-position: center;
     background-size: cover;
-
 }
+
 @media (max-width: 800px) {
     .card{
         width: 500px;
@@ -101,7 +100,6 @@
         background-size: cover;
         background-position: center;
     }
-    
  }   
 .content{
     display: flex;
