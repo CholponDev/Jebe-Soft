@@ -34,10 +34,9 @@ body{
 
     }
 }
-@media(max-width: 350px){
+@media(max-width: 300px){
     .main{
         heigth: 450px;
-        width: 550px;
     }
 }
 
