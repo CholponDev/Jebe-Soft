@@ -10,7 +10,6 @@ body{
 
      background: -webkit-linear-gradient(90deg, hsla(89, 60%, 87%, 1) 0%, hsla(61, 48%, 79%, 1) 0%, hsla(34, 86%, 58%, 1) 100%, hsla(335, 81%, 65%, 1) 100%);
 
-    /* background-image:url(./A434A13E-B6BE-41A6-9BA5-E0C98DF3DBDD.png); */
     width: auto;
     height: 100vh;
     display: flex;
