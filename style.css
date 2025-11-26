@@ -23,12 +23,12 @@ body{
         height: 750px;
     }
 }
-@media(max-width: 725px){
+/* @media(max-width: 725px){
     .main{
         width: 725px;
         height: 1000px;
     }
-}
+} */
 @media(max-width: 700px){
     .main{
         width: 700px;
