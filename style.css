@@ -36,7 +36,8 @@ body{
 
     }
 }
-@media(max-width: 400px){
+
+/* @media(max-width: 400px){
     .main{
         width: 400px;
         heigth: 1000px;
@@ -53,7 +54,7 @@ body{
         width: 300px;
         heigth: 1400px;
     }
-}
+} */
 
 .img{
     width: 300px;
