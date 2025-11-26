@@ -44,7 +44,7 @@ body{
 }
 @media(max-width: 350px){
     .main{
-        width: 350px;
+        width: 400px;
         heigth: 1000px;
     }
 }
