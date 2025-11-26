@@ -36,7 +36,12 @@ body{
 }
 @media(max-width: 400px){
     .main{
-        heigth: 600px;
+        heigth: 1000px;
+    }
+}
+@media(max-width: 350px){
+    .main{
+        heigth: 1000px;
     }
 }
 
